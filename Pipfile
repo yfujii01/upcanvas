@@ -1,0 +1,15 @@
+[[source]]
+url = "https://github.com/yfujii01/upcanvas"
+verify_ssl = true
+name = "upcanvas"
+
+[dev-packages]
+pylint = "*"
+"autopep8" = "*"
+
+[packages]
+selenium = "*"
+python-dotenv = "*"
+
+[requires]
+python_version = "3.6"
